@@ -1,0 +1,39 @@
+#header{
+				background: #48558f;
+				color:#ffffff ;
+				padding: 25px;
+				text-align: centre;
+				
+}
+
+#login-form
+{
+				padding: 50px;
+			
+}
+
+#registration-form{
+				top:50px;
+				right:50px;
+				left:50px;
+				bottom: 50px;
+				padding: 60px;
+}
+
+#left_side{ 
+       
+     border-right: 3px black; 
+     
+     } 
+#container{ 
+
+         
+         top: 50px;
+      margin-left: 25px;
+   }
+.eye{
+				position: absolute;
+}
+#hide1{
+				display: none;
+}
